@@ -34,6 +34,7 @@
 - 📄 Know about my experiences [https://muhamed-didovic.github.io/](https://muhamed-didovic.github.io/)
 
 - My tutorials:
+
 What's new in each version of Laravel: https://muhamed-didovic.github.io/laravel-whats-new-every-version/index.html
 
 <h3 align="left">Connect with me:</h3>
