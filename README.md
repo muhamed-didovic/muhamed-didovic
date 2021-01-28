@@ -39,6 +39,8 @@ What's new in each version of Laravel: https://muhamed-didovic.github.io/laravel
 
 CSS grid: https://muhamed-didovic.github.io//css-grid/index.html
 
+Flexbox: https://muhamed-didovic.github.io/flexbox/index.html
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
