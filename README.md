@@ -37,7 +37,7 @@
 
 What's new in each version of Laravel: https://muhamed-didovic.github.io/laravel-whats-new-every-version/index.html
 
-CSS grid: https://muhamed-didovic.github.io//css-grid/index.html
+CSS grid: https://muhamed-didovic.github.io/css-grid/index.html
 
 Flexbox: https://muhamed-didovic.github.io/flexbox/index.html
 
