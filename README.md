@@ -43,6 +43,8 @@ Flexbox: https://muhamed-didovic.github.io/flexbox/index.html
 
 Laravel's Eloquent tutorials: https://github.com/muhamed-didovic/eloquent-tips
 
+React (Scimba): https://muhamed-didovic.github.io/react-scrimba/index.html
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
