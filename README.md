@@ -33,6 +33,8 @@
 
 - 📄 Know about my experiences [https://muhamed-didovic.github.io/](https://muhamed-didovic.github.io/)
 
+- Skyline: https://skyline.github.com/muhamed-didovic/2020
+
 - My tutorials:
 
 What's new in each version of Laravel: https://muhamed-didovic.github.io/laravel-whats-new-every-version/index.html
@@ -45,7 +47,7 @@ Laravel's Eloquent tutorials: https://github.com/muhamed-didovic/eloquent-tips
 
 React (Scimba): https://muhamed-didovic.github.io/react-scrimba/index.html
 
-Skyline: https://skyline.github.com/muhamed-didovic/2020
+React hooks: https://muhamed-didovic.github.io/react-scrimba-hooks/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
