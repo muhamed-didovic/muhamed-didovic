@@ -35,7 +35,7 @@
 
 - Skyline: https://skyline.github.com/muhamed-didovic/2020
 
-- My tutorials and notes:
+<h3 align="center"> My tutorials and notes:</h3>
 
 What's new in each version of Laravel: https://muhamed-didovic.github.io/laravel-whats-new-every-version/index.html
 
