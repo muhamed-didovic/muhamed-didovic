@@ -43,7 +43,7 @@ CSS grid: https://muhamed-didovic.github.io/css-grid/index.html
 
 Flexbox: https://muhamed-didovic.github.io/flexbox/index.html
 
-Laravel's Eloquent tutorials: https://github.com/muhamed-didovic/eloquent-tips
+Laravel's Eloquent tutorials: https://muhamed-didovic.github.io/eloquent-tips/index.html
 
 React (Scimba): https://muhamed-didovic.github.io/react-scrimba/index.html
 
