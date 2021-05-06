@@ -55,6 +55,8 @@ MobX State tree: https://muhamed-didovic.github.io/mobx-state-tree/index.html
 
 Javascript promises and gotchas: https://muhamed-didovic.github.io/js-promises/
 
+Javascript Egghead promises course: https://filedn.com/lauLVPDT5RSfgC9wYwS5Bmb/egghead-js-promises/
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhamed-didovic-24935434" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muhamed-didovic-24935434" height="30" width="40" /></a>
