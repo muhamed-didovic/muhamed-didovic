@@ -61,6 +61,8 @@ Javascript Async/Await Egghead course: https://filedn.com/lauLVPDT5RSfgC9wYwS5Bm
 
 Javascript Async/Await thoughts: https://filedn.com/lauLVPDT5RSfgC9wYwS5Bmb/taming-async-await/index.html
 
+PHP code cleanups: https://muhamed-didovic.github.io/php-collection-of-code-cleanups/index.html
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhamed-didovic-24935434" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="muhamed-didovic-24935434" height="30" width="40" /></a>
