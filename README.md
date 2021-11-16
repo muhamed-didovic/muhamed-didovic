@@ -1,23 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhamed Didovic</h1>
-<h3 align="center">A passionate full stack developer from Bosnia, website: https://peakdevs.com CV: https://peakdevs.com/muhamed-resume.pdf</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamed-didovic&label=Profile%20views&color=0e75b6&style=flat" alt="muhamed-didovic" /> </p>
-
-<p align="center">
-  <a href="https://github.com/muhamed-didovic/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamed-didovic&layout=compact&theme=tokyonight"
-    />
-  </a>
-  <a href="https://github.com/muhamed-didovic/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=muhamed-didovic&count_private=true&show_icons=true&custom_title=Github%20Stats&theme=tokyonight"
-    />
-  </a>
-</p>
+<h3 align="center">A passionate full stack developer from Bosnia </h3>
+<p align="center">Website: https://peakdevs.com <br/>CV: https://peakdevs.com/muhamed-resume.pdf</p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -62,6 +45,24 @@ Javascript Async/Await Egghead course: https://filedn.com/lauLVPDT5RSfgC9wYwS5Bm
 Javascript Async/Await thoughts: https://filedn.com/lauLVPDT5RSfgC9wYwS5Bmb/taming-async-await/index.html
 
 PHP code cleanups: https://muhamed-didovic.github.io/php-collection-of-code-cleanups/index.html
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamed-didovic&label=Profile%20views&color=0e75b6&style=flat" alt="muhamed-didovic" /> </p>
+
+<p align="center">
+  <a href="https://github.com/muhamed-didovic/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamed-didovic&layout=compact&theme=tokyonight"
+    />
+  </a>
+  <a href="https://github.com/muhamed-didovic/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=muhamed-didovic&count_private=true&show_icons=true&custom_title=Github%20Stats&theme=tokyonight"
+    />
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
