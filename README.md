@@ -28,7 +28,7 @@ Flexbox: https://muhamed-didovic.github.io/flexbox/index.html
 
 Laravel's Eloquent tutorials: https://muhamed-didovic.github.io/eloquent-tips/index.html
 
-React (Scimba): https://muhamed-didovic.github.io/react-scrimba/index.html
+React (Scrimba): https://muhamed-didovic.github.io/react-scrimba/index.html
 
 React hooks: https://muhamed-didovic.github.io/react-scrimba-hooks/
 
