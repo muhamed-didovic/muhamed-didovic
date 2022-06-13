@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muhamed Didovic</h1>
 <h3 align="center">A passionate full stack developer from Bosnia </h3>
-<p align="center">Website: https://peakdevs.com <br/>CV: https://peakdevs.com/muhamed-resume.pdf</p>
+<p align="center">Website: https://peakdevs.com <br/>CV: https://peakdevs.com/muhamed-resume.pdf <br/>Email: muhamed.didovic@gmail.com</p>
+<p align="center">Support me on Patreon: https://www.patreon.com/mistermd</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamed-didovic&label=Profile%20views&color=0e75b6&style=flat" alt="muhamed-didovic" /> </p>
+ 
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
+
 
 - 🔭 I’m currently working on [Laravel's Eloquent tutorials](https://github.com/muhamed-didovic/eloquent-tips) and [What's new for every major Laravel release](https://muhamed-didovic.github.io/laravel-whats-new-every-version/) 
 
