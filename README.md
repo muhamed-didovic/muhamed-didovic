@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhamed Didovic</h1>
 <h3 align="center">A passionate full stack developer from Bosnia </h3>
-<p align="center">Website: https://apify.com/memo23 and https://muhamed-didovic.github.io/ <br/>CV: [https://peakdevs.com/muhamed-resume.pdf](https://muhamed-didovic.github.io/muhamed-resume.pdf) <br/>Email: muhamed.didovic@gmail.com</p>
+<p align="center">Website: https://apify.com/memo23 and https://muhamed-didovic.github.io/ <br/>CV: https://muhamed-didovic.github.io/muhamed-resume.pdf <br/>Email: muhamed.didovic@gmail.com</p>
 <p align="center">Support me on Patreon: https://www.patreon.com/mistermd</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamed-didovic&label=Profile%20views&color=0e75b6&style=flat" alt="muhamed-didovic" /> </p>
  
